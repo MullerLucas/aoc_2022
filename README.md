@@ -4,15 +4,15 @@
 
 ## TODO
 
-- [X] Day-1
-- [ ] Day-2
-- [ ] Day-3
-- [ ] Day-4
-- [ ] Day-5
-- [ ] Day-6
-- [ ] Day-7
-- [ ] Day-8
-- [ ] Day-9
+- [X] Day-01 (rs)
+- [X] Day-02 (zig)
+- [ ] Day-03
+- [ ] Day-04
+- [ ] Day-05
+- [ ] Day-06
+- [ ] Day-07
+- [ ] Day-08
+- [ ] Day-09
 - [ ] Day-11
 - [ ] Day-12
 - [ ] Day-13
